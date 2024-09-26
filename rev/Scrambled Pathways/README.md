@@ -1,6 +1,6 @@
 # rev - Scrambled Pathways
 
-![Challenge](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/challenge.png)
+![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Scrambled%20Pathways/challenge.png)
 
 ### Solution:
 
@@ -16,7 +16,7 @@
 4. **Prints the Result:** Finally, it prints the newly formed string as the "Flag". 
 
    
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Solution](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Scrambled%20Pathways/flag.png)
 
 ### Final Flag:
 ```
