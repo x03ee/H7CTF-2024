@@ -1,18 +1,18 @@
 # Web - No Paste
 
-![Challenge](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/challenge.png)
+![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/challenge.png)
 
 ### Solution:
  Finding any hidden files in the website looking threw javascript , css etc.
  After i found a javascript called __scripts.js__ i found something that if success it prints else wrong. `bypass123` looked suspicious.
  
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Solution](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/solution.png)
  
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Solution1](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/solution1.png)
  
  After getting the input when pressing the put i inputed bypass123 and send the request and i got the flag.
  
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Flag](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/flag.png)
 
 ### Final Flag:
 ```
