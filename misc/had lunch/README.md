@@ -1,5 +1,3 @@
-Here's the refined version with the images included:
-
 # Misc - Had Lunch?
 
 ![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/misc/had%20lunch/challenge.png)
