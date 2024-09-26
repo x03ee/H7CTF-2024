@@ -1,6 +1,6 @@
 # rev - Exponential Enigma
 
-![Challenge](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/challenge.png)
+![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Exponential%20Enigma/challenge.png)
 
 ### Solution:
 
@@ -21,8 +21,8 @@
 
 4. **Output**:
    - Finally, the decoded message is printed out, revealing the hidden information from the original hexadecimal string.
-   
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+
+![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/rev/Exponential%20Enigma/flag.png)
 
 ### Final Flag:
 ```
