@@ -1,7 +1,3 @@
-Here’s a refined and more detailed version of your write-up:
-
----
-
 # Web Challenge - No Paste
 
 ![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/challenge.png)
@@ -34,7 +30,3 @@ H7CTF{h@ck_th3_sy$t3m}
 ```
 
 ![Flag](https://github.com/x03ee/H7CTF-Writeups/blob/main/web/No%20Paste/flag.png)
-
----
-
-This version provides clearer structure, explanation, and flow while maintaining key technical details for better readability.
