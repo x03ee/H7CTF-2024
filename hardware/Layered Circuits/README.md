@@ -1,13 +1,13 @@
 # Hardware - Layered Circuits
 
-![Challenge](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/challenge.png)
+![Challenge](https://github.com/x03ee/H7CTF-Writeups/blob/main/hardware/Layered%20Circuits/challenge.png)
 
 ### Solution:
  Using KiCad importing the gbr files and enabling one by one then decoding using base64 then after matching it all together to make sense.
  
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Solution](https://github.com/x03ee/H7CTF-Writeups/blob/main/hardware/Layered%20Circuits/reader.png)
  
-![Solution](https://github.com/x03ee/PointerOverflow-Writeups/blob/main/web/The%20Way%20Out%20is%20Through/flag.png)
+![Solution1](https://github.com/x03ee/H7CTF-Writeups/blob/main/hardware/Layered%20Circuits/flag%20mixed.png)
 
 ### Final Flag:
 ```
